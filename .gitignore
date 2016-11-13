@@ -1,0 +1,4 @@
+*~
+*.pyc
+db.sqlite3
+superlists/__pycache__
